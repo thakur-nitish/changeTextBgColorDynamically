@@ -1,0 +1,17 @@
+#heading {
+  text-align: center;
+  text-decoration: underline;
+  font-size: 49px;
+}
+
+.inputGroup {
+  margin-top: 60px;
+  width: 700px;
+  margin-left: 621px;
+}
+
+#divText {
+  font-size: 28px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin: 9px;
+}
